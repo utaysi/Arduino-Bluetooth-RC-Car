@@ -6,11 +6,13 @@ This repository contains the design and code for a Bluetooth controlled robot, s
 
 The project represents a practical application of embedded systems programming, demonstrating the integration of hardware components - including motors, batteries, and Bluetooth modules - with software implemented in the Arduino programming language.
 
-![Main Image](pictures/With_Cabling.jpg)
-
 ## Circuit Diagram
 
 ![Circuit](pictures/Circuit.png)
+
+## Final Robot
+
+![Main Image](pictures/With_Cabling.jpg)
 
 ## Materials and Components
 
