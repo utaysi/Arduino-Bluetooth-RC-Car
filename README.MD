@@ -1,4 +1,4 @@
-#Bluetooth Controlled Robot
+# Bluetooth Controlled Robot
 
 Authors: Ugur Taysi & Atif Ghani
 
@@ -47,4 +47,4 @@ program accordingly.
 
 ## Circuit Diagram
 
-![Circuit](pictures/Bluetooth-RC-Car-Circuit.jpg)
+![Circuit](pictures/Circuit.jpg)
