@@ -2,14 +2,15 @@
 
 Authors: Ugur Taysi & Atif Ghani
 
+This repository contains the design and code for a Bluetooth controlled robot, specifically a Remote Control (RC) car. The robot utilizes Bluetooth technology to enable control via an Android device.
+
+The project represents a practical application of embedded systems programming, demonstrating the integration of hardware components - including motors, batteries, and Bluetooth modules - with software implemented in the Arduino programming language.
 
 ![Main Image](pictures/With_Cabling.jpg)
 
+## Circuit Diagram
 
-This repository contains the design and code for a Bluetooth controlled robot, specifically a Remote Control (RC) car. The robot utilizes Bluetooth technology to enable control via an Android device.
-
-
-The project represents a practical application of embedded systems programming, demonstrating the integration of hardware components - including motors, batteries, and Bluetooth modules - with software implemented in the Arduino programming language.
+![Circuit](pictures/Circuit.png)
 
 ## Materials and Components
 
@@ -44,7 +45,3 @@ program accordingly.
 • 220Ω Resistor (4x): Required for each LED to control the current flow.
 
 • Jumper Cables: Connects each component together.
-
-## Circuit Diagram
-
-![Circuit](pictures/Circuit.jpg)
